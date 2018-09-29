@@ -1,0 +1,23 @@
+header h1 {
+    color: #ffffff;
+    text-transform: uppercase;
+}
+main aside a img{
+    height: 250px;
+    width: 250px;
+}
+main section h2 {
+    color: blue;
+    text-transform: uppercase;
+}
+main section h2 {
+    font-size: 40px;
+}
+body {background-color: grey;
+margin: 0 auto;
+    width: 940px;
+}
+
+header nav a {
+    color: yellow;
+}
